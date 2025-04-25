@@ -1,5 +1,4 @@
-
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import { DashboardStats } from "@/components/dashboard/DashboardStats";
 import { ProposalChart } from "@/components/dashboard/ProposalChart";
 import { RecentActivity } from "@/components/dashboard/RecentActivity";

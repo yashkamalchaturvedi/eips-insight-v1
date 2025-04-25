@@ -1,5 +1,4 @@
-
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import { FilterBar } from "@/components/explorer/FilterBar";
 import { ProposalList } from "@/components/explorer/ProposalList";
 
