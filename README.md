@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/ea212572-1015-46ed-aceb-f443cac7bdef
+**URL**: https://preview-fba96b27--eips-vision-portal.lovable.app/
 
 ## How can I edit this code?
 
